@@ -4,7 +4,7 @@
 
 1. Show all customer records
 
-SELECT * FROM customers;
+      SELECT * FROM customers;
 
 2. Show total number of customers
 
