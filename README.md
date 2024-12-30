@@ -43,6 +43,7 @@
 Now, I'm integrating MySQL Source in Power BI tool and building dashboard
 
 -> Removing unnecessary
+
 -> debugging errors
 
 1. Formula to create norm_amount column
