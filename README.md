@@ -38,7 +38,7 @@
 
      SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.market_code="Mark001";
 
-   # Data Analysis Using Power BI (ETL)
+   # Data Analysis Using Power BI
 
 Now, I'm integrating MySQL Source in Power BI tool and building dashboard
 
